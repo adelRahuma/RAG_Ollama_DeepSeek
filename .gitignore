@@ -1,1 +1,3 @@
 uploads/
+faiss_index
+text_chunks.pkl
